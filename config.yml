@@ -1,0 +1,46 @@
+baseURL: 'https://felipear89.github.io'
+languageCode: en-us
+title: Taking notes
+theme: PaperMod
+publishDir: docs
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+minify:
+  disableXML: true
+params:
+  env: production
+  description: Just another blog
+  defaultTheme: light
+  disableThemeToggle: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  profileMode:
+    enabled: false
+  homeInfoParams:
+    Title: Felipe Alexandre Rodrigues
+    Content: |2
+        Hello world! I'm writing this blog to save my thoughts, study notes, summary of books 
+        and practice my english writing (I'm Brazilian). I hope you found something useful
+  socialIcons:
+    - name: github
+      url: 'https://github.com/felipear89'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/felipe-alexandre-rodrigues'
+menu:
+  main:
+    - name: Search
+      url: search/
+      weight: 1
+    - name: Tags
+      url: tags/
+      weight: 2
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
