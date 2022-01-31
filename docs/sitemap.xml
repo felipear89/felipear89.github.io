@@ -2,14 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://felipear89.github.io/tags/books/</loc>
+    <lastmod>2022-01-28T13:42:31-03:00</lastmod>
+  </url><url>
+    <loc>https://felipear89.github.io/posts/</loc>
+    <lastmod>2022-01-28T13:42:31-03:00</lastmod>
+  </url><url>
+    <loc>https://felipear89.github.io/tags/</loc>
+    <lastmod>2022-01-28T13:42:31-03:00</lastmod>
+  </url><url>
+    <loc>https://felipear89.github.io/</loc>
+    <lastmod>2022-01-28T13:42:31-03:00</lastmod>
+  </url><url>
+    <loc>https://felipear89.github.io/posts/the-art-of-reading-minds/</loc>
+    <lastmod>2022-01-28T13:42:31-03:00</lastmod>
+  </url><url>
     <loc>https://felipear89.github.io/archives/</loc>
   </url><url>
     <loc>https://felipear89.github.io/categories/</loc>
   </url><url>
     <loc>https://felipear89.github.io/search/</loc>
-  </url><url>
-    <loc>https://felipear89.github.io/tags/</loc>
-  </url><url>
-    <loc>https://felipear89.github.io/</loc>
   </url>
 </urlset>
